@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ProjektWaluty</string>
+    <string-array name="waluty1">
+        <item>PLN</item>
+
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
+    <string-array name="waluty2">
+        <item>USD</item>
+
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>SEK</item>
+        <item>CZK</item>
+        <item>CHF</item>
+        <item>GBP</item>
+        <item>PLN</item>
+        <item>EUR</item>
+    </string-array>
+
+    <string-array name="ciekawostkiWaluty">
+        <item>Najnowszym krajem, który przyjął Euro jest Chorwacja</item>
+        <item>Na banknotach euro widnieją fikcyjne mosty</item>
+        <item>Na wzór euro ma powstać afrykańska waluta "afro"</item>
+        <item>Euro obowiązuje także poza Europą (Gujana Francuska)</item>
+        <item>Istnieje euro o nominale 0, jest kolekcjonerskie</item>
+        <item>Najwyższym nominałem Euro jest 500</item>
+        <item>Istnieją inne dolary, np. kanadyjski</item>
+        <item>Waluta bułgarii ma nazwę od dużego kota - lew</item>
+    </string-array>
+
+
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
